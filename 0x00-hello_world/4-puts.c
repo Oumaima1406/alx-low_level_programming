@@ -1,10 +1,10 @@
 #include<stdio.h>
-/*
- * main - Entry point of the program.
+/**
+ * main - Entry point of the program
  *
- * puts ("/(to avoid " to be read ) programming)
- * return : always 0 success
-*/
+ * puts("/(to avoid " to be read ) programming)
+ * return: always 0 success
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
