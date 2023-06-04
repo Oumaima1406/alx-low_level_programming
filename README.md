@@ -1,1 +1,1 @@
-readme pointer 
+ function nested loops
